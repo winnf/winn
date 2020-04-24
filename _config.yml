@@ -1,8 +1,8 @@
 # Site settings
 title: Winnie Fong
 description: 'BASc in Biomedical Engineering with a focus in Computer Engineering. 2019 grad from the University of Waterloo'
-url: 'http://winnf.github.io'
-baseurl: '/winnf'
+url: winnf.github.io
+baseurl: /winnf
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
