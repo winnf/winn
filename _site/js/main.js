@@ -47,7 +47,7 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
-  if (window.location.pathname !== '/winnf/' && window.location.pathname !== '/winnf/index.html') {
+  if (window.location.pathname !== '/' && window.location.pathname !== '/index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 

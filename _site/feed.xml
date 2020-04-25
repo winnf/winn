@@ -3,10 +3,10 @@
   <channel>
     <title>Winnie Fong</title>
     <description>BASc in Biomedical Engineering with a focus in Computer Engineering. 2019 grad from the University of Waterloo</description>
-    <link>http://localhost:4000/winnf/</link>
-    <atom:link href="http://localhost:4000/winnf/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 24 Apr 2020 16:15:24 -0700</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2020 16:15:24 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 24 Apr 2020 17:07:11 -0700</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2020 17:07:11 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;The &lt;a href=&quot;https://github.com/winnf/visualBelt&quot;&gt;Visual Belt&lt;/a&gt; is a device that helps the visually impaired by providing sound alerts when incoming objects are detected. The goal of the project is to reduce risk of collision, encourage independence, and provide a method for individuals to safety navigate their surroundings. It was built using multiple ultrasonic sensors, speakers, and an Arduino, integrated into a belt. Currently, it detects incoming objects from various directions and plays a sound for each direction (i.e. left, right, behind, front). The closer the object, the more frequent the sound alerts.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Sep 2017 08:04:23 -0700</pubDate>
-        <link>http://localhost:4000/winnf/2017/visual-belt/</link>
-        <guid isPermaLink="true">http://localhost:4000/winnf/2017/visual-belt/</guid>
+        <link>http://localhost:4000/2017/visual-belt/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/visual-belt/</guid>
         
         <category>sensors</category>
         
@@ -48,8 +48,8 @@
 &lt;p&gt;aims to address the &lt;strong&gt;&lt;em&gt;issue of freezing of gait in Parkinson’s disease patients by developing a product that prevents freezing upon detection&lt;/em&gt;&lt;/strong&gt;. We developed an arduino prototype, which is connected to a circuit on a breadboard. The circuit is composed of an IMU, which collects motion data, and a vibrating motor. In order to analyze common patterns of freezing, we attached our prototype on the subject’s shoe and conducted walking, stopping and freezing trials. Upon repeated trials, we identified unique patterns in pitch angle and rotational velocity data then developed a program to detect those patterns. By incorporating both pitch angle and rotational velocity data in detecting freezing, we increased the reliability of our product in detecting freezing in various conditions. When it reports freezing, the arduino would send a signal to the vibrating motor attached to the subject’s calcaneal tendon. This vibrating stimulus helps alleviate symptoms of freezing in Parkinson’s disease patients.&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Dec 2015 07:04:23 -0800</pubDate>
-        <link>http://localhost:4000/winnf/2015/parkinsons/</link>
-        <guid isPermaLink="true">http://localhost:4000/winnf/2015/parkinsons/</guid>
+        <link>http://localhost:4000/2015/parkinsons/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/parkinsons/</guid>
         
         <category>sensors</category>
         
@@ -70,8 +70,8 @@
 &lt;p&gt;Thermo is designed to improve thermoregulation of Paralympians with spinal cord injury (SCI), who rely on wheelchairs. It aims to reduce the risk of hyperthermia and hypothermia, as well as improving the quality of training and athletic performance during competition. The device measures the athlete’s body temperature during physical activity non-invasively. If the body temperature outside of a normal body temperature range, the device warns the user and automatically activates a negative feedback mechanism to return the body temperature to the accepted levels.&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Oct 2014 08:04:23 -0700</pubDate>
-        <link>http://localhost:4000/winnf/2014/paralympics/</link>
-        <guid isPermaLink="true">http://localhost:4000/winnf/2014/paralympics/</guid>
+        <link>http://localhost:4000/2014/paralympics/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/paralympics/</guid>
         
         <category>sensors</category>
         
