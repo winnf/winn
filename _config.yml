@@ -46,3 +46,5 @@ plugins:
   - jekyll-seo-tag
 
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
+theme: jekyll-theme-minimal
